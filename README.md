@@ -18,3 +18,14 @@ I = λx. x = λ 1 = qwq qaq
 ```
 
 damn this is so stupid.
+
+## Usage
+After loading the python module:
+```
+>>> qwq_dbi_conv("qwq qnq qwq qwq qxq qwq qnq qwq qwq qwq qxq qxq qaq qaq qaq")
+'λλλ((3 1) (2 1))'
+```
+
+### Why don't you do the rest part
+
+I'm tired okay, this esolang is just for a joke.
