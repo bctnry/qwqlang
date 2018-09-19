@@ -26,6 +26,6 @@ After loading the python module:
 'λλλ((3 1) (2 1))'
 ```
 
-### Why don't you do the rest part
+## Why don't you do the rest
 
 I'm tired okay, this esolang is just for a joke.
