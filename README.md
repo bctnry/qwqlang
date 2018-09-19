@@ -12,7 +12,7 @@ Lambda calculus DBI style in Forth-like manner. (esoteric)
 ### SKI
 ```
 S = λx. λy. λz. x z (y z) = λ λ λ 3 1 (2 1) = λ λ λ (3 1) (2 1)
-  = qwq qnq qwq qwq qwq qxq qwq qnq qwq qwq qxq qxq qaq qaq qaq
+  = qwq qnq qwq qwq qxq qwq qnq qwq qwq qwq qxq qxq qaq qaq qaq
 K = λx. λy. x = λ λ 2 = qwq qwq qaq qaq
 I = λx. x = λ 1 = qwq qaq
 ```
